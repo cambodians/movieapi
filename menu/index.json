@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Home",
+        "url": "/"
+    },
+    {
+        "title": "Genre",
+        "url": "javascript:;",
+        "submenu": [
+            {
+                "title": "Korea Drama",
+                "url": "/genre/korea-drama"
+            },
+            {
+                "title": "Chinese Drama",
+                "url": "/genre/chinese-drama"
+            }
+        ]
+    }
+]
