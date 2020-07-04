@@ -8,13 +8,41 @@
         "url": "javascript:;",
         "submenu": [
             {
+                "title": "Action",
+                "url": "/genre/Action"
+            },
+            {
+                "title": "Drama",
+                "url": "/genre/Drama"
+            }
+        ]
+    },
+     {
+        "title": "TV Series",
+        "url": "javascript:;",
+        "submenu": [
+            {
                 "title": "Korea Drama",
-                "url": "/genre/korea-drama"
+                "url": "/genre/Korea%20Drama%20Series"
             },
             {
                 "title": "Chinese Drama",
-                "url": "/genre/chinese-drama"
+                "url": "/genre/Chinese%20Drama%20Series"
             }
         ]
+    },
+     {
+        "title": "Production",
+        "url": "javascript:;",
+        "submenu": [
+            {
+                "title": "Marvel Studio",
+                "url": "/genre/Marvel%20Studio"
+            }
+        ]
+    },
+    {
+        "title": "Khmer Dubbed",
+        "url": "/genre/Khmer%20Dubbed"
     }
 ]
